@@ -189,7 +189,7 @@ if __name__ == "__main__":
     token = ""
     #签到字典{"备注":"wps_sid"}
     sid_list = {
-        "备注":"wps_sid",#有几个写几个一行一个
+        "备注":"V02SuwpbXtudrAH3TGkGN1DFv6YNUTA00a690637000e68af03",#有几个写几个一行一个
     }
     #遍历sid，签到
     for name in sid_list:
